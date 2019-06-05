@@ -23,6 +23,7 @@ html, body {
   grid-template-rows: 24px auto;
   justify-items: center;
   position: relative;
+  left: -100px
 }
 
 .code {
