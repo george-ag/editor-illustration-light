@@ -209,7 +209,7 @@ body {
     border-color: transparent;
   }
   25%, 75% {
-    border-color: white;
+    border-color: #091e42;
   }
 }
 @keyframes cursor-persist {
@@ -217,6 +217,6 @@ body {
     border-color: transparent;
   }
   50%, to {
-    border-color: white;
+    border-color: #091e42;
   }
 }
