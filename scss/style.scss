@@ -24,7 +24,7 @@ html, body {
   grid-template-rows: 24px auto;
   justify-items: center;
   position: relative;
-  left: -100px
+  right: -100px
 }
 
 .code {
@@ -53,15 +53,15 @@ html, body {
     }
   }
   &-html {
-    right: -100px;
+    left: -100px;
     top: 40px;
   }
   &-css {
-    right: -25px;
+    left: -25px;
     top: 200px;
   }
   &-js {
-    right: -175px;
+    left: -175px;
     top: 360px;
   }
   .code-content {
