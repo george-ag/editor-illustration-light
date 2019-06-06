@@ -149,10 +149,10 @@ body {
 
 @keyframes cursor {
   from, to, 20%, 80% { border-color: transparent }
-  25%, 75% { border-color: white }
+  25%, 75% { border-color: #091e42 }
 }
 
 @keyframes cursor-persist {
   from, 45% { border-color: transparent }
-  50%, to { border-color: white }
+  50%, to { border-color: #091e42 }
 }
