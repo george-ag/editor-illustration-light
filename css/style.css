@@ -11,12 +11,12 @@ html, body {
   -webkit-align-items: center;
 }
 
-/*body {
-  background: linear-gradient(135deg, #000111 0%, #000000 100%);
-  display: flex;
+body {
+  background: #fafbfc;
+  /*display: flex;
   align-items: center;
-  justify-content: center;
-}*/
+  justify-content: center;*/
+}
 .illustration-editor {
   margin-top: -5rem;
   display: grid;
@@ -30,7 +30,7 @@ html, body {
   position: absolute;
   width: 290px;
   height: 145px;
-  background: #f7fbfe;
+  background: #fafbfc;
   box-shadow: 0px 4px 30px rgba(9, 30, 66, 0.3);
   border-radius: 6px;
   z-index: 5;
@@ -160,7 +160,7 @@ html, body {
   display: block;
   width: 500px;
   height: 421px;
-  background: linear-gradient(109.61deg, #e6f0ff 4.26%, #ebecf0 84.84%);
+  background: linear-gradient(109.61deg, #505f79 4.26%, #091e42 84.84%);
   border-radius: 10px;
 }
 
